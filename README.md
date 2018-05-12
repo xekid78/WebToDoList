@@ -14,6 +14,7 @@ ToDoリスト
 | SSHクライアント | PuTTY 0.6.8 |
 | FTPクライアント | Cyberduck 6.3.5 |
 | エディタ | Atom 1.24.0 |
+| ライブラリ | jQuery 2.2.4 |
 | 開発言語 | HTML5 |
 | | CSS3 |
 | | Java Script |
